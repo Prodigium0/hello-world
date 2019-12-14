@@ -1,2 +1,4 @@
 # hello-world
-just a try
+hi, humans!
+
+I am just here to have a try!
